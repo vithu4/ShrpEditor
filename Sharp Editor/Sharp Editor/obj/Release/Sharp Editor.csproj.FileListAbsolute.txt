@@ -1,0 +1,9 @@
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Sharp Editor\Sharp Editor\bin\Release\Sharp Editor.exe.config
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Sharp Editor\Sharp Editor\bin\Release\Sharp Editor.exe
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Sharp Editor\Sharp Editor\bin\Release\Sharp Editor.pdb
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Sharp Editor\Sharp Editor\obj\Release\Sharp Editor.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Sharp Editor\Sharp Editor\obj\Release\Sharp_Editor.Form1.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Sharp Editor\Sharp Editor\obj\Release\Sharp_Editor.Properties.Resources.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Sharp Editor\Sharp Editor\obj\Release\Sharp Editor.csproj.GenerateResource.Cache
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Sharp Editor\Sharp Editor\obj\Release\Sharp Editor.exe
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Sharp Editor\Sharp Editor\obj\Release\Sharp Editor.pdb
